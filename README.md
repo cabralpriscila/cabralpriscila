@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+> I lost my previous github account so I had to start new repositories all over again 😓
 
 <!--
 **cabralpriscila/cabralpriscila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
