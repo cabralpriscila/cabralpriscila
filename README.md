@@ -1,4 +1,7 @@
 ### Hi there!
+![octocat-1701968547752](https://github.com/cabralpriscila/cabralpriscila/assets/124088364/45ff65ca-983e-4eb9-873a-971627da7807)
+
+
 
 > I lost my previous github account so I had to start new repositories all over again 😓
 
