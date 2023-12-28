@@ -1,5 +1,5 @@
 ### Hi there!
-![octocat-1701968547752](https://github.com/cabralpriscila/cabralpriscila/assets/124088364/45ff65ca-983e-4eb9-873a-971627da7807)
+<img src="https://github.com/cabralpriscila/cabralpriscila/assets/124088364/45ff65ca-983e-4eb9-873a-971627da7807" width="300" height="300">
 
 
 
